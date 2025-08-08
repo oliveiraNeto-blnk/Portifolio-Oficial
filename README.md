@@ -1,37 +1,31 @@
-Portfólio profissional de Oliveira Neto, desenvolvedor de jogos indies e produtor musical. O site apresenta:
+# 🎮 Portfólio Oliveira Neto
 
-    Página "Sobre mim" com perfil e habilidades
+Desenvolvedor indie de jogos & produtor musical.
 
-    Página "Projetos" com jogos e músicas destacadas
+## ✨ Destaques
 
-    Página "Contato" com links para redes sociais
+✅ Jogos completos publicados no itch.io
 
-🛠 Tecnologias
+✅ Músicas originais disponíveis no SoundCloud
 
-    HTML5
+✅ Especialista em Construct 2
 
-    CSS
+✅ Desenvolvimento full-stack de jogos (arte + código + áudio)
 
-    Design responsivo
+## 🛠️ Ferramentas Principais
 
-🎨 Estilo
+▸ Construct 2
 
-    Cores principais: Roxo (#6E00FF) e variações
+▸ GameMaker
 
-    Cards com sombras e efeitos hover
+▸ FL Studio
 
-    Ícones de emoji para categorização visual
+▸ Aseprite
 
-    Layout limpo e moderno
+## 🎵 Projetos em Destaque
 
-🌐 Links
+🎮 Blitz & Dash - Jogo de ação frenético com mecânicas de dash
 
-    GitHub: oliveiraNeto-blnk
+🐸 Jumping Frog - Desafio de plataforma preciso
 
-    itch.io: bol-l
-
-    SoundCloud: prod-blxnk
-
-📄 Licença
-
-© 2025 Oliveira Neto. Todos os direitos reservados.
+🎶 Me Sinto Preso - Single autoral
