@@ -1,4 +1,4 @@
-#  <a href="https://oliveiraneto-blnk.github.io/Portifolio-Oficial/">🎮 Portfólio Oliveira Neto</a> 
+#  <a href="https://oliveiraneto-blnk.github.io/Portifolio-Oficial/" target="_blank">🎮 Portfólio Oliveira Neto</a> 
 
 Desenvolvedor indie de jogos & produtor musical.
 
